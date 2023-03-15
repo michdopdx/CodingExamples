@@ -12,6 +12,7 @@ class Sorting {
         {
            for(int j = 0; j < list.length-i-1;j++)
            {
+    
             if(list[j] > list[j+1]) 
             {
                 int save = list[j];
